@@ -1,10 +1,9 @@
 # IgnitisTask
 Creating working applications for the backend part of communication. (REST-API)
 <h2>Provided 2 types of users: admin and regular user</h2>
-
 Functional requirements:
 <strong>Support for two types of users: user, admin
-The user can:</strong>
+<br> The user can:</strong>
 <br> Receive messages (who, when, what)
 <br> Record a new message
 <strong>User admin can:</strong>
