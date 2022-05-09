@@ -4,7 +4,7 @@ Creating working applications for the backend part of communication. (REST-API)
 
 Functional requirements:
 Support for two types of users: user, admin
-<bold>The user can:</bold>
+<strong>The user can:</strong>
 <br> Receive messages (who, when, what)
 <br> Record a new message
 <bold>User admin can:</bold>
