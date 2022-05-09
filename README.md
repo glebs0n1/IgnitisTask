@@ -18,18 +18,18 @@ Support for two types of users: user, admin
 • Average message length
 • The text of the last message
 <h3>Tech stack:</h3>
-Basic technical requirements:
- Use GIT version control. Provide a link to a public Git rap or .zip with
+<bold>Basic technical requirements:</bold
+ <br>Use GIT version control. Provide a link to a public Git rap or .zip with
 attach the .git directory.
- Use Java 11+
- Use Gradle (https://gradle.org/)
- Use a spring boot
- Use springfox Swagger2 or springdoc OpenApi3
- Use the h2 database (https://www.h2database.com)
- Do not use JDBC querium, use ORM
- Clean code (eg https://plugins.jetbrains.com/plugin/7973-sonarlint or similar
+<br> Use Java 11+
+ <br>Use Gradle (https://gradle.org/)
+<br> Use a spring boot
+<br> Use springfox Swagger2 or springdoc OpenApi3
+<br> Use the h2 database (https://www.h2database.com)
+<br> Do not use JDBC querium, use ORM
+<br> Clean code (eg https://plugins.jetbrains.com/plugin/7973-sonarlint or similar
 equivalent)
- Create at least one automated test
+<br> Create at least one automated test
 <h3>More complex technical requirements (if possible):</h3>
 1. Use Liquibase (https://www.liquibase.org/)
 2. Use JOOQ as an ORM (https://www.jooq.org/)
