@@ -3,14 +3,14 @@ Creating working applications for the backend part of communication. (REST-API)
 <h2>Provided 2 types of users: admin and regular user</h2>
 
 Functional requirements:
-Support for two types of users: user, admin
-<strong>The user can:</strong>
+<strong>Support for two types of users: user, admin
+The user can:</strong>
 <br> Receive messages (who, when, what)
 <br> Record a new message
-<bold>User admin can:</bold>
+<strong>User admin can:</strong>
 <br> Register a new user
 <br> Remove the user
- <bold>Extract statistics:</bold>
+ <strong>>Extract statistics:</strong>
 <br>• user
 <br>• Number of messages
 <br>• The time of the first message
@@ -18,7 +18,7 @@ Support for two types of users: user, admin
 <br>• Average message length
 <br>• The text of the last message
 <h3>Tech stack:</h3>
-<bold>Basic technical requirements:</bold
+<strong>Basic technical requirements:</strong>
  <br>Use GIT version control. Provide a link to a public Git rap or .zip with
 attach the .git directory.
 <br> Use Java 11+
