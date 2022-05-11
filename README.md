@@ -3,13 +3,13 @@ Creating working applications for the backend part of communication. (REST-API)
 <h2>Provided 2 types of users: admin and regular user</h2>
 Functional requirements:
 <strong>Support for two types of users: user, admin
-<br> The user can:</strong>
+<br> The user can: </strong>
 <br> Receive messages (who, when, what)
 <br> Record a new message
 <strong>User admin can:</strong>
 <br> Register a new user
 <br> Remove the user
- <strong>>Extract statistics:</strong>
+ <strong> Extract statistics: </strong>
 <br>• user
 <br>• Number of messages
 <br>• The time of the first message
